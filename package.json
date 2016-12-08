@@ -6,7 +6,7 @@
   "author": "Manak Kapoor <manak.kapoor@gmail.com>",
   "license": "NONE",
   "scripts":{
-    "install":"chmod 777 ./exec/IconExtractor"
+    "install":""
   },
   "dependencies": {
         "request": "*",
